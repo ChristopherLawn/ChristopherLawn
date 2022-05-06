@@ -1,7 +1,7 @@
 # Chris Lawn
 
 ## About Me
-An aspiring web developer born and raised in Massachusetts, I moved to the Pacific Northwest in 2017. With over 15 years of professional experience in audio-visual production and project management, I decided to expand my skillset to include full-stack web development. I'm incredibly excited about this journey, and I hope you share it with me!
+Chris Lawn (pronouns: he / they) is a web developer based in the Pacific Northwest. With over a decade of professional experience in audio visual production and project management, Chris is excited to begin a new career as a Full-Stack Web Developer. Chris has worked on individual and group projects using React, MongoDB, Express, Node, JavaScript ES6, CSS3, HTML5, SQL, MySQL2, GitHub, Sequelize, Handlebars, jQuery, and Bootstrap. His programming skills include Object-Oriented Programming (OOP), Object-Relational Mapping (ORM), Model-View-Controller Programming (MVC), and Progressive Web Applications (PWA). A social extrovert with a natural talent for customer service, Chris enjoys working both independently and as part of a collaborative team.
 
 ## Portfolio
 https://christopherlawn.github.io/chris-lawn-portfolio/
