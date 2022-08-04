@@ -6,8 +6,8 @@ Chris Lawn (pronouns: he / they) is a web developer based in the Pacific Northwe
 ## Email
 [christopher.d.lawn@gmail.com](mailto:christopher.d.lawn@gmail.com)
 
-## Portfolio
-https://christopherlawn.github.io/chris-lawn-portfolio/
-
 ## LinkedIn
 https://www.linkedin.com/in/christopherdaniellawn/
+
+## Portfolio
+https://christopherlawn.github.io/chris-lawn-portfolio/
